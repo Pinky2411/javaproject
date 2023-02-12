@@ -1,0 +1,79 @@
+MIME-Version: 1.0
+Date: Sun, 12 Feb 2023 15:58:49 +0530
+Message-ID: <CABu9_nOEp=ogn7pxhaicRXEZ7F=MYQ8a57oYNd=Yf510qRH8eg@mail.gmail.com>
+Subject: 
+From: Akshada Ambre <akshada.a24@gmail.com>
+To: Akshada Ambre <akshada.a24@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000006e24c105f47e32b6"
+
+--0000000000006e24c105f47e32b6
+Content-Type: text/plain; charset="UTF-8"
+
+class LeapYear{
+
+public static void main(String []args){
+
+System.out.println("\n---------------Leap year----------------- "
+\n(year=2020)");
+
+int year=2020;
+
+if ((year % 4 == 0) && (year % 100!= 0))
+
+System.out.println("Entered year is a leap year");
+
+else if(year%400 == 0)
+
+System.out.println("Entered year is leap year");
+
+else
+
+System.out.println("Entered year is year is not a leap")
+
+}
+
+}
+
+--0000000000006e24c105f47e32b6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"padding:0px 0px 0px 2px">
+<div style=3D"color:rgb(0,0,0);font-family:Consolas;font-size:12pt;white-sp=
+ace:nowrap">
+<p><span style=3D"color:rgb(127,0,85);font-weight:bold">class</span> LeapYe=
+ar{ </p>
+<p><span style=3D"color:rgb(127,0,85);font-weight:bold">public</span> <span=
+ style=3D"color:rgb(127,0,85);font-weight:bold">static</span> <span style=
+=3D"color:rgb(127,0,85);font-weight:bold">void</span> main(String []args){ =
+</p>
+<p>System.out.println(<span style=3D"color:rgb(42,0,255);text-decoration-li=
+ne:underline;text-decoration-style:wavy;text-decoration-color:rgb(255,0,128=
+)">&quot;\n---------------Leap year----------------- &quot;</span><span sty=
+le=3D"text-decoration-line:underline;text-decoration-style:wavy;text-decora=
+tion-color:rgb(255,0,128)">\n(year=3D2020)</span><span style=3D"color:rgb(4=
+2,0,255);text-decoration-line:underline;text-decoration-style:wavy;text-dec=
+oration-color:rgb(255,0,128)">&quot;);</span></p>
+<p></p>
+<p><span style=3D"color:rgb(127,0,85);font-weight:bold">int</span> year=3D2=
+020; </p>
+<p><span style=3D"color:rgb(127,0,85);font-weight:bold">if</span> ((year % =
+4 =3D=3D 0) &amp;&amp; (year % 100!=3D 0)) </p>
+<p>System.out.println(<span style=3D"color:rgb(42,0,255)">&quot;Entered yea=
+r is a leap year&quot;</span>); </p>
+<p><span style=3D"color:rgb(127,0,85);font-weight:bold">else</span> <span s=
+tyle=3D"color:rgb(127,0,85);font-weight:bold">if</span>(year%400 =3D=3D 0) =
+</p>
+<p>System.out.println(<span style=3D"color:rgb(42,0,255)">&quot;Entered yea=
+r is leap year&quot;</span>); </p>
+<p><span style=3D"color:rgb(127,0,85);font-weight:bold">else</span> </p>
+<p></p>
+<p>System.out.println(<span style=3D"color:rgb(42,0,255)">&quot;Entered yea=
+r is year is not a leap&quot;</span><span style=3D"text-decoration-line:und=
+erline;text-decoration-style:wavy;text-decoration-color:rgb(255,0,128)">)</=
+span></p>
+<p>}</p>
+<p>}</p></div>
+</div></div>
+
+--0000000000006e24c105f47e32b6--
